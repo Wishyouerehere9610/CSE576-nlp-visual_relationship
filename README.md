@@ -1,2 +1,2 @@
-# CSE576-nlp
-CSE 576 nlp project
+# CSE576-nlp-visual_relation
+Dataset:Visualgenome https://visualgenome.org/
