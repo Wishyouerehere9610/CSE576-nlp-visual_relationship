@@ -9,6 +9,6 @@
 *  For the relationship augmentation work, I use nlpaug API and the relationship_aliases.txt to create new expression of relationship between objects. Becasue I partition the datasets for several parts, I randomly use nlpaug augmenter to recreate the relationship, such as nlpaug.augmenter.char, nlpaug.augmenter.word, and nlpaug.augmenter.sentence or the relationship_aliases.txt file to replace the old relationship to the new one based on the synonyms words.
 ### Instruction of API environment/packages
 * To run the code files, see attched github links to download the dependeces/packages for **visual_genome**, **imgaug**, **nlpaug**. 
-* **visual_genome** https://github.com/ranjaykrishna/visual_genome_python_driver
-* **imgaug** https://github.com/aleju/imgaug
-* **nlpaug** https://github.com/makcedward/nlpaug
+* visual_genome: https://github.com/ranjaykrishna/visual_genome_python_driver
+* imgaug: https://github.com/aleju/imgaug
+* nlpaug: https://github.com/makcedward/nlpaug
